@@ -1,2 +1,2 @@
-# Pemrograman-mobile
-Tugas pemrograman mobile
+# Pemrograman-Perangkat-Bergerak
+Tugas UTS Pemrograman Perangkat Bergerak
